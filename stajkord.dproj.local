@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.874,=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.699,=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\TABPGDLG.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\stajkord.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.707,=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.097,=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.421,C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.421,C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.740,C:\Users\LEGION\Documents\Embarcadero\Studio\Projects\Win32\Stakkordinasyon\Unit3.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
